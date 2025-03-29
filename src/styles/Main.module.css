@@ -65,7 +65,7 @@
 }
 
 .chevronIcon {
-    transition: transform 0.3s ease;
+    transition: transform 0.5s ease;
 }
 
 .chevronOpen {
@@ -75,7 +75,7 @@
 .subMenu {
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.5s ease;
+    transition: max-height 0.7s ease;
     display: flex;
     flex-direction: column;
     gap: 4px;
